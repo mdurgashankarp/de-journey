@@ -1,0 +1,6 @@
+n1 = input("Give me number 1: ")
+n2 = input("Give me number 2: ")
+print(int(n1) + int(n2))
+print(int(n1) - int(n2))
+print(int(n1) * int(n2))
+print(int(n1) % int(n2))
