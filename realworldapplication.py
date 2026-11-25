@@ -8,4 +8,3 @@ def salary_calculator(annual_salary, bonus_percentage):
     return str(total_compensation)
 
 main()
- 
